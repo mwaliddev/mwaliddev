@@ -8,7 +8,7 @@ I build web applications with the MERN stack — from idea to deployment.
 ## Stack
 
 **Frontend** — React, HTML/CSS, JavaScript  
-**Backend** — Node.js, Express, Laravel  
+**Backend** — Node.js, Express  
 **Database** — MongoDB, MySQL  
 **Tools** — Git, Linux, REST APIs, WebSockets  
 
