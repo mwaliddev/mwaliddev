@@ -24,9 +24,9 @@ I build web applications with the MERN stack — from idea to deployment.
 
 ## Currently
 
-- 🔨 Building a new full-stack project
-- 📖 Sharpening DSA and system design
-- 🎯 Open to junior developer opportunities
+-  Building a new full-stack project
+-  Sharpening DSA and system design
+-  Open to junior developer opportunities
 
 ---
 
