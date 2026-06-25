@@ -19,7 +19,6 @@ I build web applications with the MERN stack — from idea to deployment.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [MacroMate](https://github.com/mwaliddev/macromate) | AI-powered macro & nutrition calculator | React, Node.js, OpenAI API |
-| [Prism Chat](https://github.com/mwaliddev/prism-chat) | Real-time chat application | React, Node.js, WebSockets |
 
 ---
 
@@ -36,7 +35,6 @@ I build web applications with the MERN stack — from idea to deployment.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
