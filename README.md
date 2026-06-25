@@ -1,6 +1,5 @@
 # Mohammed Walid
 
-Full-Stack Developer based in Mersin, Turkey.  
 I build web applications with the MERN stack — from idea to deployment.
 
 ---
